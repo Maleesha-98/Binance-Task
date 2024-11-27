@@ -1,0 +1,2 @@
+https://pypi.org/project/websocket-client/
+https://websocket-client.readthedocs.io/en/latest/
